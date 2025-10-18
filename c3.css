@@ -1,0 +1,53 @@
+.memberButton {
+  position: absolute;
+  width: 15%;
+  height: 10%;
+  top: 5%;
+  left: 30%;
+  z-index: 3;
+  transform: translate(-50%, -50%);
+  font-family: "Kanit", sans-serif;
+  font-size: 50px;
+  background-color: #ffffff00;
+  color: #ffffff;
+  letter-spacing: 2px;
+  animation: fadeIn 10s ease-in-out;
+  white-space: nowrap;
+  text-decoration: none;
+  text-align: center;
+}
+
+.straightmember {
+  position: absolute;
+  width: 30%;
+  height: 30%;
+  top: 8%;
+  left: 30%;
+  z-index: 3;
+  transform: translate(-50%, -50%);
+  font-family: "Kanit", sans-serif;
+  font-size: 20px;
+  color: #ffffff;
+  letter-spacing: 2px;
+  animation: fadeIn 10s ease-in-out;
+  white-space: nowrap;
+}
+
+.comingsoon {
+  position: absolute;
+  width: 15%;
+  height: 10%;
+  top: 30%;
+  left: 30%;
+  z-index: 3;
+  transform: translate(-50%, -50%);
+  font-family: "Kanit", sans-serif;
+  font-size: 150px;
+  background-color: #ffffff00;
+  color: #000000;
+  letter-spacing: 2px;
+  animation: fadeIn 10s ease-in-out;
+  white-space: nowrap;
+  text-decoration: none;
+  text-align: center;
+}
